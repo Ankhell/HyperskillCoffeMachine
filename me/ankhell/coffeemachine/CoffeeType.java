@@ -1,4 +1,4 @@
-package machine;
+package me.ankhell.coffeemachine;
 
 public enum CoffeeType {
     ESPRESSO(250,0,16,4),

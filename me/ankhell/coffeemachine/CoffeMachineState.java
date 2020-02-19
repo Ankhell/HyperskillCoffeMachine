@@ -1,4 +1,4 @@
-package machine;
+package me.ankhell.coffeemachine;
 
 public enum CoffeMachineState {
     GROUND_STATE,

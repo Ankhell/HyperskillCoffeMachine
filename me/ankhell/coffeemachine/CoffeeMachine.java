@@ -1,4 +1,4 @@
-package machine;
+package me.ankhell.coffeemachine;
 
 import java.io.BufferedReader;
 import java.io.IOException;

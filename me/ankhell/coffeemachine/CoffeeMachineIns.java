@@ -1,7 +1,4 @@
-package machine;
-
-import java.io.BufferedReader;
-import java.io.IOException;
+package me.ankhell.coffeemachine;
 
 public class CoffeeMachineIns {
     private int water;
